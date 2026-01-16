@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/script-Bash-orange.svg)](https://www.gnu.org/software/bash/)
 
-本脚本是 Fail2ban 的全生命周期管理脚本。旨在简化 Linux 服务器安全防护，提供从安装、配置到多维度 Jail 管理。
+本脚本是 Fail2ban 管理脚本。
 
 > 此脚本提取自该项目中的Fail2ban管理部分: [https://github.com/ISFZY/Xray-Auto](https://github.com/ISFZY/Xray-Auto)，在此基础上进行了修改、增加功能。
 
